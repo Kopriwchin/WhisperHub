@@ -1,6 +1,6 @@
 ## WhisperHub
 
-**WhisperHub** is a simple and quick messaging app developed as part of the "Javascript-advanced" course at [Your University Name]. This project demonstrates advanced JavaScript concepts and provides a seamless communication platform for users.
+**WhisperHub** is a simple and quick messaging app developed as part of the "Javascript-advanced" course at **Sofia University - Faculty of Mathematics and Informatics**. This project demonstrates advanced JavaScript concepts and provides a seamless communication platform for users.
 
 ### Features
 - **Instant Messaging**: Send and receive messages in real-time.
