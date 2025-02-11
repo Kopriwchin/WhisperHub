@@ -1,0 +1,20 @@
+{
+  "name": "whisperhub",
+  "version": "1.0.0",
+  "description": "**WhisperHub** is a simple and quick messaging app developed as part of the \"Javascript-advanced\" course at Sofia University - Faculty of Mathematics and Informatics. This project demonstrates advanced JavaScript concepts and provides a seamless communication platform for users.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "devStart": "nodemon server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
